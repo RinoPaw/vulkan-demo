@@ -42,3 +42,12 @@ Makefile
 
 # Environment / secrets
 .env
+
+# Local executables / generated outputs
+cube_depth
+depth_check
+depth_target_check
+pipeline_check
+vk_probe
+cube_depth.png
+*.spv
