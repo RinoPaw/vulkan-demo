@@ -1,0 +1,44 @@
+# Build folders
+build/
+out/
+bin/
+lib/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio / MSVC
+.vs/
+*.sln
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+
+# Logs / temp
+*.log
+*.tmp
+
+# Environment / secrets
+.env
